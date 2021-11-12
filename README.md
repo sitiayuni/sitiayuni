@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sitiayuni
 - 👀 I’m interested in data scientist
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on developer
+- 💞️ I’m looking to collaborate on....
 - 📫 How to reach me with email
 
 <!---
